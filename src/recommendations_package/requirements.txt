@@ -1,0 +1,5 @@
+numpy==1.18.4
+scikit-image
+scikit-learn
+scipy
+flask
